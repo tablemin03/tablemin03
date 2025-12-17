@@ -16,7 +16,7 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Blog </h2> <br> 
     <div style="text-align: left;"> <a href=https://velog.io/@tablemin2/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@tablemin2/posts"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
